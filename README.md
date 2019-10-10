@@ -11,5 +11,7 @@ How to use:
 List of parameters:
 
 -h or --help           show this help
+
 -e or --enable         enable wordpress maintenance mode
+
 -d or --disable        disable wordpress maintenance mode
